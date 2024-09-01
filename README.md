@@ -1,6 +1,6 @@
 # Simplexercise-frontend
 ## Video Overview
-[https://www.youtube.com/watch?v=QO1sIC4x4Ec](url)
+[https://youtu.be/QO1sIC4x4Ec?si=dQu46roFLWkTDljc](url)
 ## Summary
 - Flutter mobile app for generating personalized workout plans.
 - Allows the user to take a survey and record an exercise video.
